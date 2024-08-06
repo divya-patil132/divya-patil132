@@ -1,16 +1,55 @@
-## Hi there 👋
 
+<img src="https://readme-typing-svg.herokuapp.com/?color=3EB489&height=18&width=300&vCenter=true&lines=👋+Hello,,;+Here's+Divya+Patil;A+Full+stack+Web/App+dev;and;A+Cyber+Security+Enthusiast...+Currently+exploring+the+world+of+AI" />
+
+         
+### Glad to see you here! 🤩 &nbsp; 
+
+>I am looking for opportunities and collabaration in projects related to Web-Development. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development , Mchine Learning and working on my Data Structures and Algorithms 🤓. Although A computer science engineer working with Devlopment tools and looking forward to Share and Gain knowledgeable stuff☘️.
+
+
+<h3>☘️ Currently working on<a href="https://github.com/Permissy"> Permissy!!</a></h3>
+<h2 align="center">🛠 Tools & Technologies ⚡</h2>
+ <p align="center">
+  <a href="https://github.com/divya-patil132">
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,java,python,php,julia,bash,js,html,css,react,redux,nodejs,express,mongodb,typescript,kotlin,next,angular" />
+  </a>
+</p>
+
+
+**⚙️ &nbsp;GitHub Analytics**
+<table style="width:100%">
+  <tr>
+    <td> <img src="https://github-readme-stats.vercel.app/api?username=divya-patil132&show_icons=true&theme=dark&locale=en&hide_border=true" alt="imkashyap" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divya-patil132&theme=dark&hide_border=true&layout=compact"></td>
+  </tr>
+</table>
+
+<!-- [![Kashyap's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imkashyap&theme=tokyonight)](https://github.com/imkashyap/github-readme-stats)-->
+<!-- *** -->
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2019%20mins-blue)
 <!--
-**divya-patil132/divya-patil132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **This Week I Spent My Time On** 
 
-Here are some ideas to get you started:
+```text
+⌚︎ Time Zone: Asia/Kolkata
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+ Last Updated on 24/09/2022 18:53:40 UTC
 -->
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
