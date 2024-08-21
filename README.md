@@ -8,35 +8,57 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Real Estate CRM](https://github.com/Chaitalilohar/CRM-Real-Estate)
+<img src="https://readme-typing-svg.herokuapp.com/?color=3EB489&height=18&width=300&vCenter=true&lines=👋+Hello,,;+Here's+Kalyani+Kolte;A+Full+stack+Web/App+dev;and;A+Cyber+Security+Enthusiast...+Currently+exploring+the+world+of+AI" />
 
-- 🌱 I’m currently learning *JSON, Node.js*
+         
+### Glad to see you here! 🤩 &nbsp; 
 
-- 🤝 I’m looking for help with *Mern Stack Development study materials*
+>I am looking for opportunities and collabaration in projects related to Web-Development/Cybersecurity. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development and working on my Data Structures and Algorithms 🤓. Although A computer science engineer working with Devlopment tools and looking forward to Share and Gain knowledgeable stuff☘️.
 
-- 👨‍💻 All of my projects are available at [portfolio](#)
 
-- 💬 Ask me about *DSA, Frontend, Python, C/C++, Java*
-
-- 📫 How to reach me *artisr259@gmail.com*
-
-- ⚡ Fun fact *Now a days, I love to do Typing.*
-
-- 👋 I'm searching good team player for *SIH-24*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arati rayapure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arati rayapure" height="30" width="40" /></a>
-<a href="https://kaggle.com/arati rayapure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arati rayapure" height="30" width="40" /></a>
-<a href="https://instagram.com/arti_raypure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arti_raypure" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/arati raypure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arati raypure" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/artisr259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="artisr259" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/artis0qzb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="artis0qzb" height="30" width="40" /></a>
+<h3>☘️ Currently working on<a href="https://github.com/krsnoki/Permissy"> Permissy!!</a></h3>
+<h2 align="center">🛠 Tools & Technologies ⚡</h2>
+ <p align="center">
+  <a href="https://github.com/krsnoki">
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,java,python,php,julia,bash,js,html,css,react,redux,nodejs,express,mongodb,typescript,kotlin,next,angular" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aratiraypure03&show_icons=true&locale=en&layout=compact" alt="aratiraypure03" /></p>
+**⚙️ &nbsp;GitHub Analytics**
+<table style="width:100%">
+  <tr>
+    <td> <img src="https://github-readme-stats.vercel.app/api?username=krsnoki&show_icons=true&theme=dark&locale=en&hide_border=true" alt="imkashyap" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krsnoki&theme=dark&hide_border=true&layout=compact"></td>
+  </tr>
+</table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aratiraypure03&show_icons=true&locale=en" alt="aratiraypure03" /></p>
+<!-- [![Kashyap's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imkashyap&theme=tokyonight)](https://github.com/imkashyap/github-readme-stats)-->
+<!-- *** -->
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2019%20mins-blue)
+<!--
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+ Last Updated on 24/09/2022 18:53:40 UTC
+-->
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
