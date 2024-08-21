@@ -32,8 +32,8 @@
 **⚙️ &nbsp;GitHub Analytics**
 <table style="width:100%">
   <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api?username=krsnoki&show_icons=true&theme=dark&locale=en&hide_border=true" alt="imkashyap" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krsnoki&theme=dark&hide_border=true&layout=compact"></td>
+    <td> <img src="https://github-readme-stats.vercel.app/api?username=divya-patil132&show_icons=true&theme=dark&locale=en&hide_border=true" alt="imkashyap" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divya-patil132&theme=dark&hide_border=true&layout=compact"></td>
   </tr>
 </table>
 
