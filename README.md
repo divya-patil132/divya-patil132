@@ -63,7 +63,8 @@ No Activity Tracked This Week
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divya-patil132&" alt="divya-patil132" /></p>
-### Show some ❤️ by starring some of the repositories!
+Show some ❤️ by starring some of the repositories!
 
+<a href=#><img src="contributions.svg" ></a>
 </div>
 </div>
