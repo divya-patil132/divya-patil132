@@ -20,11 +20,11 @@
 >I am looking for opportunities and collabaration in projects related to Web-Development/Cybersecurity. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development and working on my Data Structures and Algorithms 🤓. Although A computer science engineer working with Devlopment tools and looking forward to Share and Gain knowledgeable stuff☘️.
 
 
-<h3>☘️ Currently working on<a href="https://github.com/divya-patil132/Permissy"> Permissy!!</a></h3>
+<h3>☘️ Currently working on<a href="https://github.com/divya-patil132/Permissy"> Data Science!!</a></h3>
 <h2 align="center">🛠 Tools & Technologies ⚡</h2>
  <p align="center">
   <a href="https://github.com/divya-patil132">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,nodejs,express,mongodb,typescript,next,angular,figma" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,node js,mongodb,figma.power bi," />
   </a>
 </p>
 
