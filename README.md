@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Divya</h1>
-<h3 align="center">A passionate Web developer</h3>
+<h3 align="center">A passionate Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divya-patil132&label=Profile%20views&color=0e75b6&style=flat" alt="divya-patil132" /> </p>
 
@@ -20,7 +20,17 @@
 >I am looking for opportunities and collabaration in projects related to Web-Development/Cybersecurity. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development and working on my Data Structures and Algorithms 🤓. Although A computer science engineer working with Devlopment tools and looking forward to Share and Gain knowledgeable stuff☘️.
 
 
-<h3>☘️ Currently working on<a href="https://github.com/divya-patil132/Permissy"> Data Science!!</a></h3>
+<h3>☘️ Currently working on<a href="https://github.com/divya-patil132/Permissy"> Data Science!!</a></h3>   
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/divya-patil-612663262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divya patil" height="30" width="40" /></a>
+<a href="https://kaggle.com/aartiraipure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="divya patil" height="30" width="40" /></a>
+<a href="https://instagram.com/arti_raypure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divya patil" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/artisr259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="artisr259" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/artis0qzb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="divya patil" height="30" width="40" /></a>
+
+
 <h2 align="center">🛠 Tools & Technologies ⚡</h2>
  <p align="center">
   <a href="https://github.com/divya-patil132">
