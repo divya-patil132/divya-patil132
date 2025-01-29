@@ -25,10 +25,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/divya-patil-612663262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divya patil" height="30" width="40" /></a>
-<a href="https://kaggle.com/aartiraipure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="divya patil" height="30" width="40" /></a>
-<a href="https://instagram.com/arti_raypure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divya patil" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/artisr259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="artisr259" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/artis0qzb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="divya patil" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/divyapatil061103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="divyapatil061103" height="30" width="40" /></a>
+<a href="https://www.instagram.com/divya_patil132/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divya_patil132" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/divya_patil132/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="divya_patil132" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/patildiylv6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="patildiylv6" height="30" width="40" /></a>
 
 
 <h2 align="center">🛠 Tools & Technologies ⚡</h2>
