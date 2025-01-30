@@ -75,6 +75,9 @@ No Activity Tracked This Week
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divya-patil132&" alt="divya-patil132" /></p>
 Show some ❤️ by starring some of the repositories!
 
+</div>
+</div>
 
-</div>
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
