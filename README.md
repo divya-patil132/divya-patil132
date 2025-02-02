@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Divya</h1>
+<h1 align="center">Heyy👋, I'm Divya</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divya-patil132&label=Profile%20views&color=0e75b6&style=flat" alt="divya-patil132" /> </p>
@@ -37,6 +37,19 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs,mongodb,figma,bootstrap,mysql,php,java,blender,Powerbi,pandas," />
   </a>
 </p>
+
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/divya-patil132">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sdivya-patil132&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=divya-patil132&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=divya-patil132&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=divya-patil132&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divya-patil132&theme=2077" height="180em" />
+</div>
 
 
 **⚙️ &nbsp;GitHub Analytics**
@@ -80,4 +93,5 @@ Show some ❤️ by starring some of the repositories!
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+
 
