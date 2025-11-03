@@ -1,6 +1,6 @@
 
 <h1 align="center">Heyy👋, I'm Divya</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">A passionate Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divya-patil132&label=Profile%20views&color=0e75b6&style=flat" alt="divya-patil132" /> </p>
 
@@ -20,7 +20,7 @@
 >I am looking for opportunities and collabaration in projects related to Data Science, Machine Learning, Web-Development/Cybersecurity. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently working on Data Science 🤓. Although A computer science engineer working with Devlopment tools and looking forward to Share and Gain knowledgeable stuff☘️.
 
 
-<h3>☘️ Currently working on<a href="https://github.com/divya-patil132/Permissy"> Data Science!!</a></h3>   
+<h3>☘️ Currently working on<a href="https://github.com/divya-patil132/Permissy"> Java !!</a></h3>   
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
