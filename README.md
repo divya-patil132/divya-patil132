@@ -69,6 +69,13 @@
 <!--
 📊 **This Week I Spent My Time On** 
 
+
+
+<p align="center">
+<img src = "https://github.com/divya-patil132/divya-patil132/blob/output/github-contribution-grid-snake-dark.svg" alt = "snake animation">
+</p>
+
+
 ```text
 ⌚︎ Time Zone: Asia/Kolkata
 
