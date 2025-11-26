@@ -62,6 +62,13 @@
   </tr>
 </table>
 
+
+
+
+<p align="center">
+<img src = "https://github.com/hardik-kapadia/hardik-kapadia/blob/output/github-contribution-grid-snake-dark.svg" alt = "snake animation">
+</p>
+
 <!-- [![Kashyap's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imkashyap&theme=tokyonight)](https://github.com/imkashyap/github-readme-stats)-->
 <!-- *** -->
 <!--START_SECTION:waka-->
@@ -69,11 +76,6 @@
 <!--
 📊 **This Week I Spent My Time On** 
 
-
-
-<p align="center">
-<img src = "https://github.com/divya-patil132/divya-patil132/blob/output/github-contribution-grid-snake-dark.svg" alt = "snake animation">
-</p>
 
 
 ```text
